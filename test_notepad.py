@@ -1,7 +1,7 @@
-import unittest
-import tkinter as tk
 import os
-from tkinter import filedialog
+import tkinter as tk
+import unittest
+
 from notepad import Notepad  # Notepad klassingiz fayl nomi `notepad.py` bo‘lishi kerak
 
 
